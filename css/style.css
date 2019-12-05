@@ -45,14 +45,3 @@ h1 span:nth-child(6) {
     width: 249px;
    }
 }
-
-@media only screen and (max-width: 812px) {
-  body {
-    margin-top: -110px;
-    width: 100%;
-    text-align: center;
-  }
-  .search-bar {
-    width: 460px;
-   }
-}
